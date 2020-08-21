@@ -1,1 +1,4 @@
-# machine_learning
+## machine_learning
+### 2020年8月21日
+### 暑假期间对机器学习一些零碎的笔记和代码
+### 陈诗杰
